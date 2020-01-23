@@ -1,5 +1,5 @@
 ## aws-docker-login
-Bash script that logs into AWS ECR automatically
+Bash script that logs into AWS ECR automatically.  
 For Linux and Max only
 
 ## Prerequisites
